@@ -33,4 +33,7 @@ The main controller is the Waveshare ESP32-S3-Zero. The components are designed 
 
 The `PCB` folder contains the KiCad project files, including the schematic, PCB layout, and project settings.
 
+### Disclaimer
+AI was used to help organize information in the READ ME. all ideas writing and pretty much everything was done by me 
+
 
